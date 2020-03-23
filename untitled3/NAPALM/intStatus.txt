@@ -1,0 +1,632 @@
+{
+    "FortyGigabitEthernet2/1/1": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:BD",
+        "mtu": 1500,
+        "speed": 40000
+    },
+    "FortyGigabitEthernet2/1/2": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:BE",
+        "mtu": 1500,
+        "speed": 40000
+    },
+    "GigabitEthernet0/0": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:80",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/1": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:81",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/10": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:8A",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/11": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:8B",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/12": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:8C",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/13": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:8D",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/14": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:8E",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/15": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:8F",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/16": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:90",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/17": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:91",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/18": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:92",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/19": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:93",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/2": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:82",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/20": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:94",
+        "mtu": 1500,
+        "speed": 10
+    },
+    "GigabitEthernet2/0/21": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:95",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/22": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:96",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/23": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:97",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/24": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:98",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/25": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:99",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/26": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:9A",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/27": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:9B",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/28": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:9C",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/29": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:9D",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/3": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:83",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/30": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:9E",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/31": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:9F",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/32": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A0",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/33": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A1",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/34": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A2",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/35": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A3",
+        "mtu": 1500,
+        "speed": 10
+    },
+    "GigabitEthernet2/0/36": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A4",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/4": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:84",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/5": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:85",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/6": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:86",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/7": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:87",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "GigabitEthernet2/0/8": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:88",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/0/9": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:89",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/1/1": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B1",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/1/2": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B2",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/1/3": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B3",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "GigabitEthernet2/1/4": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B4",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "Loopback0": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "",
+        "mtu": 1514,
+        "speed": 8000
+    },
+    "Loopback1": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "",
+        "mtu": 1514,
+        "speed": 8000
+    },
+    "Loopback2": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "",
+        "mtu": 1514,
+        "speed": 8000
+    },
+    "Loopback3": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "",
+        "mtu": 1514,
+        "speed": 8000
+    },
+    "Loopback4": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "",
+        "mtu": 1514,
+        "speed": 8000
+    },
+    "TenGigabitEthernet2/0/37": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A5",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/38": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A6",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/39": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A7",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "TenGigabitEthernet2/0/40": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A8",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/41": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:A9",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/42": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:AA",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/43": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:AB",
+        "mtu": 1500,
+        "speed": 100
+    },
+    "TenGigabitEthernet2/0/44": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:AC",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/45": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:AD",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "TenGigabitEthernet2/0/46": {
+        "description": "usuarios",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:AE",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/0/47": {
+        "description": "### LIGACAO - TCPSWCORE02 ###",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:AF",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "TenGigabitEthernet2/0/48": {
+        "description": "### LIGACAO - TCPSWCORE02 ###",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B0",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/1": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B5",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/2": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B6",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/3": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B7",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/4": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B8",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/5": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:B9",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/6": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:BA",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/7": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:BB",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "TenGigabitEthernet2/1/8": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:BC",
+        "mtu": 1500,
+        "speed": 10000
+    },
+    "Vlan1": {
+        "description": "",
+        "is_enabled": false,
+        "is_up": false,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:C7",
+        "mtu": 1500,
+        "speed": 1000
+    },
+    "Vlan15": {
+        "description": "",
+        "is_enabled": true,
+        "is_up": true,
+        "last_flapped": -1.0,
+        "mac_address": "B4:A8:B9:F2:78:D4",
+        "mtu": 1500,
+        "speed": 1000
+    }
+}
